@@ -1,0 +1,5 @@
+.weather-list-container{
+    height: 80vh;
+    width: 90%;
+    border: 1px solid black;
+}
